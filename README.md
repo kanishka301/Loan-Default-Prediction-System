@@ -84,9 +84,5 @@ An interactive dashboard was created using **Power BI / Tableau**, visualizing:
 - XGBoost performed best in predicting loan defaults
 - Customers were clearly segmented into 4 risk groups
 - Income-to-EMI ratio and credit score were strong predictors of default
-- High-risk segment showed significantly higher default rates
-
-## 👩‍💻 Author
-Abhilasha  
-MNNIT – Mechanical Engineering  
+- High-risk segment showed significantly higher default rate
 ---
