@@ -65,7 +65,7 @@ This project solves these challenges using machine learning and analytics.
 ## 📈 Model Performance
 - Logistic Regression AUC: *~0.XX*
 - Random Forest AUC: *~0.XX*
-- XGBoost AUC: *~0.99 (Best Model)*
+- XGBoost AUC: *~0.92 (Best Model)*
 
 ---
 
